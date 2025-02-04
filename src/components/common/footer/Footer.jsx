@@ -1,7 +1,6 @@
 import React from "react";
 import { footer } from "../../data/Data";
 import "./footer.css";
-import { Link } from "react-router-dom";
 
 const Footer = () => {
   return (
