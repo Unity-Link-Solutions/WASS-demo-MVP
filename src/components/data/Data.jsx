@@ -140,7 +140,7 @@ export const list = [
 export const location = [
   {
     id: 1,
-    name: "New Orleans, Louisiana",
+    name: "Bole, Addis Ababa",
     Villas: "12 Villas",
     Apartments: "10 Apartments",
     Offices: "07 Offices",
@@ -148,7 +148,7 @@ export const location = [
   },
   {
     id: 2,
-    name: "Jerrsy, United State",
+    name: "Kirkos, Addis Ababa",
     Villas: "12 Villas",
     Apartments: "10 Apartments",
     Offices: "07 Offices",
@@ -156,33 +156,33 @@ export const location = [
   },
   {
     id: 3,
-    name: "Liverpool, London",
+    name: "Arada, Addis Ababa",
     Villas: "12 Villas",
-    Apartments: " 10 Apartments",
+    Apartments: "10 Apartments",
     Offices: "07 Offices",
     cover: city3Image,
   },
   {
     id: 4,
-    name: "NewYork, United States",
+    name: "Yeka, Addis Ababa",
     Villas: "12 Villas",
-    Apartments: " 10 Apartments",
+    Apartments: "10 Apartments",
     Offices: "07 Offices",
     cover: city4Image,
   },
   {
     id: 5,
-    name: "Montreal, Canada",
+    name: "Lideta, Addis Ababa",
     Villas: "12 Villas",
-    Apartments: " 10 Apartments",
+    Apartments: "10 Apartments",
     Offices: "07 Offices",
     cover: city5Image,
   },
   {
     id: 6,
-    name: "California, USA",
+    name: "Nifas Silk-Lafto, Addis Ababa",
     Villas: "12 Villas",
-    Apartments: " 10 Apartments",
+    Apartments: "10 Apartments",
     Offices: "07 Offices",
     cover: city6Image,
   },
@@ -234,25 +234,25 @@ export const price = [
     ptext: "per user, per month",
     list: [
       {
-        icon: <i class="fa-solid fa-check"></i>,
+        icon: <i className="fa-solid fa-check"></i>,
         text: "99.5% Uptime Guarantee",
       },
       {
-        icon: <i class="fa-solid fa-check"></i>,
+        icon: <i className="fa-solid fa-check"></i>,
         text: "120GB CDN Bandwidth",
       },
       {
-        icon: <i class="fa-solid fa-check"></i>,
+        icon: <i className="fa-solid fa-check"></i>,
         text: "5GB Cloud Storage",
       },
       {
         change: "color",
-        icon: <i class="fa-solid fa-x"></i>,
+        icon: <i className="fa-solid fa-x"></i>,
         text: "Personal Help Support",
       },
       {
         change: "color",
-        icon: <i class="fa-solid fa-x"></i>,
+        icon: <i className="fa-solid fa-x"></i>,
         text: "Enterprise SLA",
       },
     ],
@@ -264,24 +264,24 @@ export const price = [
     ptext: "per user, per month",
     list: [
       {
-        icon: <i class="fa-solid fa-check"></i>,
+        icon: <i className="fa-solid fa-check"></i>,
         text: "99.5% Uptime Guarantee",
       },
       {
-        icon: <i class="fa-solid fa-check"></i>,
+        icon: <i className="fa-solid fa-check"></i>,
         text: "150GB CDN Bandwidth",
       },
       {
-        icon: <i class="fa-solid fa-check"></i>,
+        icon: <i className="fa-solid fa-check"></i>,
         text: "10GB Cloud Storage",
       },
       {
-        icon: <i class="fa-solid fa-check"></i>,
+        icon: <i className="fa-solid fa-check"></i>,
         text: "Personal Help Support",
       },
       {
         change: "color",
-        icon: <i class="fa-solid fa-x"></i>,
+        icon: <i className="fa-solid fa-x"></i>,
         text: "Enterprise SLA",
       },
     ],
@@ -289,31 +289,32 @@ export const price = [
   {
     plan: "Platinum",
     price: "79",
-    ptext: "2 user, per month",
+    ptext: "2 users, per month",
     list: [
       {
-        icon: <i class="fa-solid fa-check"></i>,
+        icon: <i className="fa-solid fa-check"></i>,
         text: "100% Uptime Guarantee",
       },
       {
-        icon: <i class="fa-solid fa-check"></i>,
+        icon: <i className="fa-solid fa-check"></i>,
         text: "200GB CDN Bandwidth",
       },
       {
-        icon: <i class="fa-solid fa-check"></i>,
+        icon: <i className="fa-solid fa-check"></i>,
         text: "20GB Cloud Storage",
       },
       {
-        icon: <i class="fa-solid fa-check"></i>,
+        icon: <i className="fa-solid fa-check"></i>,
         text: "Personal Help Support",
       },
       {
-        icon: <i class="fa-solid fa-check"></i>,
+        icon: <i className="fa-solid fa-check"></i>,
         text: "Enterprise SLA",
       },
     ],
   },
 ];
+
 export const footer = [
   {
     title: "LAYOUTS",

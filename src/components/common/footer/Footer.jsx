@@ -1,6 +1,7 @@
 import React from "react";
 import { footer } from "../../data/Data";
 import "./footer.css";
+import { Link } from "react-router-dom";
 
 const Footer = () => {
   return (
@@ -46,9 +47,11 @@ const Footer = () => {
           ))}
         </div>
       </footer>
-      <div className="legal">
-        <span>© 2021 RentUP. Designd By GorkCoder.</span>
-      </div>
+      <a href="http://wassglobalsolutions.com">
+        <div className="legal">
+          <span>© 2025 WASS. Powerd By WASS Global solutions.</span>
+        </div>
+      </a>
     </>
   );
 };

@@ -48,6 +48,42 @@ const Services = () => {
       description:
         "Support low-income buyers through crowdfunding campaigns, enabling affordable homeownership opportunities.",
     },
+    {
+      icon: <i className="fa-solid fa-hand-holding-usd"></i>,
+      title: "Home Equity Loan Services",
+      description:
+        "Leverage your property’s value to secure loans from Zemen Bank, ensuring financial flexibility without selling your home.",
+    },
+    {
+      icon: <i className="fa-solid fa-shield-alt"></i>,
+      title: "Escrow & Financial Security",
+      description:
+        "Zemen Bank acts as a trusted escrow provider, ensuring funds are securely held and released only after transaction conditions are met.",
+    },
+    {
+      icon: <i className="fa-solid fa-users"></i>,
+      title: "Investment-Based Real Estate Crowdfunding",
+      description:
+        "Join real estate investment pools and co-finance large-scale projects with secure fund management through Zemen Bank.",
+    },
+    {
+      icon: <i className="fa-solid fa-truck"></i>,
+      title: "Diaspora Purchasing & Shipping Service",
+      description:
+        "Buy Ethiopian products, raw materials, or personal goods remotely with our verified purchasing and shipping services.",
+    },
+    {
+      icon: <i className="fa-solid fa-wallet"></i>,
+      title: "Monthly Family Payment System",
+      description:
+        "Securely send structured monthly payments for rent, education, healthcare, and essentials to your family in Ethiopia.",
+    },
+    {
+      icon: <i className="fa-solid fa-building"></i>,
+      title: "Business Entry Facilitation for Foreign Companies",
+      description:
+        "Get assistance in finding office spaces, rental properties, and business setup services in Ethiopia.",
+    },
   ];
 
   return (
